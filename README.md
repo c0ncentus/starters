@@ -1,2 +1,2 @@
-git clone --branch <branchname> <remote-repo-url>
+# Clone:
 git clone --branch branchname https://github.com/c0ncentus/starters.git
