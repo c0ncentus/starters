@@ -12,7 +12,6 @@
       "node_modules"
     ],
     "references": [
-      {"path": "../core"},
-      {"path": "../arrRange"}
+      {"path": "../core"}
     ]
   }
