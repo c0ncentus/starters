@@ -1,5 +1,5 @@
 {
-  "name": "@lord_ts/str_masque",
+  "name": "@lord_ts/",
   "version": "0.3.2",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -16,7 +16,6 @@
     "registry": "https://registry.npmjs.org/"
   },
   "license": "MIT",
-  "gitHead": "dd44b2e900d6b60edf3ff07bf9b4aa4f3842ce31",
   "dependencies": {
     "@lord_ts/core": "^0.3.2"
   }
